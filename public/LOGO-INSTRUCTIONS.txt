@@ -1,0 +1,10 @@
+IMPORTANT: Save the Rinspark Hub logo image
+
+Please save the logo image you provided as:
+public/rinspark-logo.png
+
+The logo is already referenced in the code at:
+- Navbar (app/page.tsx)
+- Footer (app/page.tsx)
+
+Once you save the logo image to public/rinspark-logo.png, it will automatically appear on the website.
